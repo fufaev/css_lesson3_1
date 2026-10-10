@@ -9,3 +9,10 @@ h2 {
     width: 424px;
     background: url(../../../images/mamchits.gif) repeat-y;
 }
+.b3 {
+    background: url(../../../images/niz.gif) no-repeat left bottom;
+    margin: 0;
+    padding: 0px 5px 15px 5px;
+    font-family: Tahoma, sans-serif;
+    font-size: 0.8em;
+}
