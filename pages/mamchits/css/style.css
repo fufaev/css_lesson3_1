@@ -1,0 +1,11 @@
+h2 {
+    padding: 5px 0 0 7px;
+    background: url(../../../images/verh.gif) no-repeat left top;
+    font-family: Arial Narrow, sans-serif;
+    font-size: 1.2em;
+    color: #94b767;
+}
+.b1 {
+    width: 424px;
+    background: url(../../../images/mamchits.gif) repeat-y;
+}
