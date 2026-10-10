@@ -1,0 +1,35 @@
+h2 {
+    padding: 5px 0 0 7px;
+    background: url(../../../images/verh.gif) no-repeat left top;
+    font-family: Arial Narrow, sans-serif;
+    font-size: 1.2em;
+    color: #94b767;
+    margin-bottom: 17px;
+}
+.b1 {
+    margin-top: -8.5px;
+    width: 424px;
+    background: url(../../../images/mamchits.gif) repeat-y left top;
+}
+.b3 {
+    background: url(../../../images/niz.gif) no-repeat left bottom;
+    margin: 4.8px 0 0 0;
+    padding: 0px 5px 15px 5px;
+    font-family: Tahoma, sans-serif;
+    font-size: 0.8em;
+    letter-spacing: -0.05px;
+    word-spacing: 1.4px;
+}
+p {
+    text-indent: 13%;
+    line-height: 16px;
+    letter-spacing: 0.01px;
+    word-spacing: 0.1px;
+}
+.b2 {
+    width: 414px;
+    font-family: Tahoma, sans-serif;
+    font-size: 0.8em;
+    margin: 0;
+    padding: 0 5px 0 5px;
+}
