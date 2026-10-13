@@ -1,0 +1,33 @@
+.bl {
+    width: 424px;
+    background: url(../../../images/kuznetsov.gif) repeat-y left top;
+}
+
+h2 {
+    margin: 0;
+    padding: 5px 0 17px 7px;
+    background: url(../../../images/verh.gif) no-repeat left top;
+    font-family: "Arial Narrow", Arial, sans-serif;
+    font-size: 1.2em;
+    color: #94b767;
+}
+
+.b2 {
+    margin: 0;
+    padding: 0 10px 5px 7px;
+    background: url(../../../images/kuznetsov.gif) repeat-y left top;
+    font-family: Tahoma, sans-serif;
+    font-size: 0.8em;
+    line-height: 16px;
+    text-indent: 14%;
+}
+
+.b3 {
+    margin: 0;
+    padding: 8px 10px 16px 7px;
+    background: url(../../../images/niz.gif) no-repeat left bottom;
+    font-family: Tahoma, sans-serif;
+    font-size: 0.8em;
+    line-height: 16px;
+    text-indent: 14%;
+}
