@@ -10,3 +10,20 @@ h2 {
     width: 424px;
     background: url(../../../images/korzun.gif) repeat-y left top;
 }
+.b2 {
+    width: 414px;
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 0.8em;
+    text-indent: 11%;
+    margin: 0;
+    padding: 0 5px;
+}
+
+.b3 {
+    background: url(../../../images/niz.gif) no-repeat left bottom;
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: 0.8em;
+    text-indent: 11%;
+    margin: 0;
+    padding: 0 5px 15px 5px;
+}
